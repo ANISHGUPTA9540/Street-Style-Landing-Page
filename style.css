@@ -1,0 +1,93 @@
+* {
+  font-family: "Orbitron";
+  font-size: 16px;
+}
+body {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.navbar-container {
+  padding-top: 10px;
+}
+nav div ul {
+  padding-left: 250px;
+}
+.list-item {
+  display: inline;
+  list-style-type: none;
+  padding: 30px;
+}
+.button-group {
+  display: inline-block;
+  float: right;
+  padding-right: 50px;
+}
+nav div {
+  display: inline-block;
+  vertical-align: top;
+}
+.search-icon {
+  padding-right: 8px;
+  margin-bottom: 0;
+}
+.nav-button {
+  padding: 8px 20px;
+  border-radius: 10px;
+  font-family: "Poppins";
+  background-color: #ffffff;
+}
+.hero-container div img {
+  position: relative;
+  float: left;
+  width: 400px;
+}
+.square {
+  position: absolute;
+  z-index: -1;
+  /* width: 250px; */
+  height: 350px;
+  padding-left: 60px;
+  padding-top: 290px;
+}
+.globe {
+  margin-left: 700px;
+}
+
+.star {
+  padding-right: 50px;
+  float: right;
+}
+.hero-container-right {
+  display: inline;
+  text-align: center;
+  margin-left: 400px;
+}
+.button-email {
+  padding: 5px 15px;
+  border-radius: 8px;
+}
+
+.button-join {
+  padding: 5px 8px;
+  background-color: #1f1f1f;
+  color: #ffffff;
+  border-radius: 8px;
+}
+.icons span img {
+  width: 40px;
+}
+.icons {
+  display: inline-block;
+  text-align: center;
+}
+h1 {
+  text-align: center;
+  font-size: 65px;
+}
+
+p {
+  text-align: center;
+  padding-left: 500px;
+  padding-right: 50px;
+  word-wrap: break-word;
+}
